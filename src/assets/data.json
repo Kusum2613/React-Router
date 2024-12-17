@@ -1,0 +1,32 @@
+{
+    "jobs":[
+        {"id":1,
+         "title":"Job1",
+         "salary":5000000,
+         "Location":"PaNIndia"
+    
+    },
+    {"id":2,
+         "title":"Job2",
+         "salary":5000000,
+         "Location":"PaNIndia"
+    
+    },
+    {"id":3,
+         "title":"Job3",
+         "salary":5000000,
+         "Location":"PaNIndia"
+    
+    },{"id":4,
+    "title":"Job4",
+    "salary":5000000,
+    "Location":"PaNIndia"
+
+},{"id":5,
+"title":"Job5",
+"salary":5000000,
+"Location":"PaNIndia"
+
+}
+    ]
+}
